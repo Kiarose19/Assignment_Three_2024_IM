@@ -2,7 +2,7 @@
   "name": "three",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kiarose19.github.io/Assignment3_2024_Interactive-Media",
+  "homepage": "https://Kiarose19.github.io/Assignment_Three_2024_IM",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
