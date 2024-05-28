@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <Routes>
+      <Routes baseName = "/Home_Assignment3_2024_Interactive-Media">
      <Route exact path = "/" Component = {Home}/>
      <Route  exact path = "/design" Component = {Design}/>
      <Route exact path = "/theory" Component = {Theory}/>
