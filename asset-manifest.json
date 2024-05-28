@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Assignment_Three_2024_IM/static/css/main.75f4532e.css",
+    "main.js": "/Assignment_Three_2024_IM/static/js/main.4b01ee27.js",
+    "static/js/453.c52fd6af.chunk.js": "/Assignment_Three_2024_IM/static/js/453.c52fd6af.chunk.js",
+    "static/media/formule-1-circuit-monaco-yachts.jpg": "/Assignment_Three_2024_IM/static/media/formule-1-circuit-monaco-yachts.3e9a315d5e56bc2e73f6.jpg",
+    "static/media/DJI_0560.avif": "/Assignment_Three_2024_IM/static/media/DJI_0560.4f213e53d5e25a11644a.avif",
+    "static/media/Redbull.png": "/Assignment_Three_2024_IM/static/media/Redbull.746651e4a055b28c078a.png",
+    "static/media/GettyImages-1175912103.avif": "/Assignment_Three_2024_IM/static/media/GettyImages-1175912103.7da737dceaf85644cf64.avif",
+    "static/media/Fonts.png": "/Assignment_Three_2024_IM/static/media/Fonts.454bddd21960b79e0d3a.png",
+    "static/media/sainz2.jpg": "/Assignment_Three_2024_IM/static/media/sainz2.b23443b9204d7aa8fc0f.jpg",
+    "static/media/leclerc2.jpg": "/Assignment_Three_2024_IM/static/media/leclerc2.de92f4b30df22a7819a4.jpg",
+    "static/media/Home1.png": "/Assignment_Three_2024_IM/static/media/Home1.273c3d8f0606a91fdb66.png",
+    "static/media/Home.png": "/Assignment_Three_2024_IM/static/media/Home.464922eb95e35cc40e02.png",
+    "static/media/Designn2.png": "/Assignment_Three_2024_IM/static/media/Designn2.11eabac8378a69872174.png",
+    "static/media/Artt.png": "/Assignment_Three_2024_IM/static/media/Artt.87e26795ec86513ad986.png",
+    "static/media/Theoryy.png": "/Assignment_Three_2024_IM/static/media/Theoryy.5b8c4214a259919213e0.png",
+    "static/media/Designn.png": "/Assignment_Three_2024_IM/static/media/Designn.8d52f482c50520ce8997.png",
+    "static/media/Layout.png": "/Assignment_Three_2024_IM/static/media/Layout.499b30714f498ca925f5.png",
+    "static/media/Colour.png": "/Assignment_Three_2024_IM/static/media/Colour.7f24ecacef5174bebd7b.png",
+    "index.html": "/Assignment_Three_2024_IM/index.html",
+    "main.75f4532e.css.map": "/Assignment_Three_2024_IM/static/css/main.75f4532e.css.map",
+    "main.4b01ee27.js.map": "/Assignment_Three_2024_IM/static/js/main.4b01ee27.js.map",
+    "453.c52fd6af.chunk.js.map": "/Assignment_Three_2024_IM/static/js/453.c52fd6af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f4532e.css",
+    "static/js/main.4b01ee27.js"
+  ]
+}
