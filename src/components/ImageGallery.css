@@ -1,0 +1,31 @@
+.image-gallery-container{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+
+.image-gallery{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    padding: 16px;
+    max-width: 600px;
+}
+
+.image-item{
+    overflow: hidden;
+    position: relative;
+    background:  #f0f0f0;
+    cursor: pointer;
+}
+
+.image-item img{
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+
+

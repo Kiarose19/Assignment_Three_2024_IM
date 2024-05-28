@@ -1,0 +1,200 @@
+
+
+.home h3{
+    color: rgb(193, 3, 3);
+    margin-left: 90px;
+    margin-top: 200px;
+    font-size: 25px;
+}
+
+.home p{
+    margin-left: 90px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.home p span{
+    color: rgb(255, 157, 0);
+}
+
+.home img{
+    width: 40%;
+    margin-left: 775px;
+    margin-top: -400px;
+
+}
+
+#pirelli {
+    margin-top: 100px;
+    width: 15%;
+    margin-left: 110px;
+}
+
+.info img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 200px;
+    border: 2px solid rgb(61, 61, 61);
+}
+
+.origin h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 230px;
+}
+
+.origins h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379); 
+}
+
+
+.history{
+    margin-top: -380px;
+}
+
+.history p{
+    margin-left: 765px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.ferrari1 h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 260px;
+}
+
+.ferrari2 h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
+}
+
+.ferrari h3{
+    color: rgb(193, 3, 3);
+    margin-left: 90px;
+    margin-top: 250px;
+    font-size: 25px;
+}
+
+.ferrari h4{
+    margin-left: 90px;
+}
+
+.ferrari img{
+    margin-top: -400px;
+}
+
+.scuderiaF{
+    margin-top: -340px;
+}
+
+.scuderiaF h4{
+    margin-left: 765px;
+}
+
+.scuderiaF p{
+    margin-left: 765px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.scuderia img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 250px;
+}
+
+.content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.team h4{
+    margin-left: 90px;
+    margin-top: 200px;
+}
+
+.team img{
+    width: 40%;
+    margin-top: -400px;
+   margin-left: 810px;
+}
+
+.drivers h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 100px;
+}
+
+.drive h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
+}
+
+.driver img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 200px;
+}
+
+.driver2 h4{
+    margin-left:765px ;
+    margin-top: -390px;
+}
+
+.driver2 p{
+    margin-left: 765px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.italy h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 350px;
+}
+
+.italy2 h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
+}
+
+.monza h4{
+    margin-left: 90px;
+    margin-top: 250px;
+}
+
+.monza img{
+    margin-left: 850px;
+}
+
+.monza1 h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 280px;
+}
+
+.monz h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
+}
+
+.monza2 img{
+    margin-top: 180px;
+    margin-left: 400px;
+    width: 50%;
+}
+
+

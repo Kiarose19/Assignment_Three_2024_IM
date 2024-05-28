@@ -1,0 +1,199 @@
+
+.theory{
+    background-image: url('./image/DJI_0560.avif');
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-size: cover;
+    margin-top: -75px;
+}
+
+.imola h2{
+    margin: 200px;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(208, 5, 5);
+}
+
+
+#essay h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 300px;
+    color: red;
+   
+}
+
+#essay1 h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
+}
+
+
+
+.imola h3{
+    font-size: 25px;
+    margin-left: 90px;
+    margin-top: 200px;
+    color: rgb(208, 5, 5);
+}
+
+.imola h4{
+    margin-left: 90px;
+}
+
+.imola p{
+    margin-left: 90px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.imola img{
+    width: 40%;
+    margin-left: 800px;
+    margin-top: -500px;
+    height: 55vh;
+    
+}
+
+.image1 img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 200px;
+}
+
+.essay2{
+    margin-top: -470px;
+    margin-left: 765px;
+}
+
+.essay2 p{
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.essay3{
+    margin-top: 250px;
+    margin-left: 90px;
+}
+
+.essay3 p{
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.essay3 img{
+    width: 43%;
+    margin-left: 700px;
+    margin-top: -700px;
+}
+
+.essay4 {
+    margin-top: -470px;
+    margin-left: 765px;
+}
+
+.essay4 p{
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.image2 img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 200px;
+}
+
+
+
+.essay5 p{
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+    margin-left: 90px;
+    
+}
+
+.essay5 h4{
+    margin-left: 90px;
+    margin-top: 300px;
+}
+
+.essay5 img{
+    width: 40%;
+    margin-left: 760px;
+    margin-top: -900px;
+}
+
+.essay7{
+    margin-top: 250px;
+    margin-left: 90px;
+}
+
+.essay7 p{
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.essay7 img{
+    width: 43%;
+    margin-left: 730px;
+    margin-top: -700px;
+}
+
+#art1 h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 300px;
+    color: red;
+}
+
+#art2 h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
+}
+
+.internet{
+    margin-top: 250px;
+}
+
+.internet h4{
+    margin-left: 90px;
+}
+
+.internet p{
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+    margin-left: 90px;
+}
+
+.internet img{
+    width: 43%;
+    margin-left: 765px;
+    margin-top: -500px;
+    height: 50vh;
+}
+
+.artwork img{
+    width: 40%;
+    height: 45vh;
+    margin-left: 90px;
+    margin-top: 230px;
+}
+
+.artwork1{
+    margin-left: 790px;
+    margin-top: -360px;
+}
+
+#wheel img{
+    margin-top: 300px;
+    width: 25%;
+    margin-left: 80px;
+    height: 30vh;
+}
+
+
+

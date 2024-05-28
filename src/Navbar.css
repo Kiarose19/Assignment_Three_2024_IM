@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .links li {
+    margin-right: 50px;
+    display: inline-flex;
+    align-items: center;
+    list-style-type: none;
+  }
+  
+  .links a {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    font-size: 17px;
+    z-index: 2;
+  }
+
+  .links li :hover {
+    background-color: red;
+    border-radius: 5px;
+  }
+  

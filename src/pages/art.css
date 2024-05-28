@@ -1,0 +1,39 @@
+.art{
+    background-image: url('./image/GettyImages-1175912103.avif');
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-size: cover;
+    margin-top: -75px;
+}
+
+.singapore h2{
+    margin: 200px;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(208, 5, 5);
+}
+
+.singapore img{
+    width: 40%;
+    margin-left: 90px;
+}
+
+.sing h3{
+    margin-left: 110px;
+    margin-top: -200px;
+}
+
+.sing p{
+    margin-left: 110px;
+}
+
+.flag img{
+    margin-top: 85px;
+    width: 5%;
+}
+
+.flag1 img{
+    margin-top: -268px;
+    width: 5%;
+    margin-left: 1325px;
+}
