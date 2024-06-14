@@ -14,6 +14,8 @@
 }
 
 
+
+
 #structure h3{
     margin-left: 90px;
     font-size: 60px;
@@ -50,9 +52,9 @@
 }
 
 .monaco img{
-    width: 40%;
-    margin-left: 765px;
-    margin-top: -420px;
+    width: 42%;
+    margin-left: 770px;
+    margin-top: -400px;
     border: 2px solid black;
     border-radius: 5px;
 }
@@ -60,7 +62,7 @@
 .mon img{
     width: 40%;
     margin-left: 90px;
-    margin-top: 200px;
+    margin-top: 230px;
     border: 2px solid rgb(61, 61, 61);
 }
 
@@ -69,7 +71,7 @@
 }
 
 .circuit p{
-    margin-left: 765px;
+    margin-left: 775px;
     color: rgb(150, 149, 149);
     font-size: 17px;
 }
@@ -87,7 +89,7 @@
 
 .circ img{
     width: 40%;
-    margin-left: 765px;
+    margin-left: 775px;
     margin-top: -500px;
     border: 2px solid black;
 }
@@ -104,7 +106,7 @@
 }
 
 .para p{
-    margin-left: 765px;
+    margin-left: 775px;
     color: rgb(150, 149, 149);
     font-size: 17px;
 }
@@ -122,7 +124,7 @@
 
 .frame img{
     width: 40%;
-    margin-left: 765px;
+    margin-left: 775px;
     margin-top: -500px;
     border: 2px solid black;
 }
@@ -139,11 +141,11 @@
 }
 
 .description h4{
-    margin-left: 765px; 
+    margin-left: 770px; 
 }
 
 .description p{
-    margin-left: 765px;
+    margin-left: 770px;
     color: rgb(150, 149, 149);
     font-size: 17px;
 }
@@ -164,37 +166,37 @@
 
 .section2 h3{
     font-size: 25px;
-    margin-left: 90px;
+    margin-left: 85px;
     margin-top: 200px;
     color: rgb(208, 5, 5);
 }
 
 .section2 h4{
-    margin-left: 90px;
+    margin-left: 85px;
 }
 
 .section2 p{
-    margin-left: 90px;
+    margin-left: 85px;
     color: rgb(150, 149, 149);
     font-size: 17px;
 }
 
 .section2 img{
-    width: 43%;
+    width: 44%;
     margin-left: 775px;
-    margin-top: -950px;
+    margin-top: -600px;
     border: 2px solid black;
 }
 
 .section3 h4{
-    margin-top: 200px;
+    margin-top: 220px;
     margin-left: 90px;
 }
 
 .section3 img{
     width: 40%;
     margin-left: 90px;
-    margin-top: 200px;
+    margin-top: 225px;
     border: 2px solid rgb(61, 61, 61);
     display: flex;
 }
@@ -230,5 +232,9 @@
 
 .design h1{
     color: rgb(248, 63, 63);
+}
+
+ .design p span{
+    color: rgb(255, 157, 0);
 }
 

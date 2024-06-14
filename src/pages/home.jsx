@@ -1,16 +1,21 @@
 import React from "react";
 import VideoBackground from "../components/VideoBackground";
-import ImageGallery from "../components/ImageGallery";
+import MyImageGallery from '../components/ImageGallery';
 import "./home.css";
 import sainz2 from "./image/sainz2.jpg";
 import leclerc2 from "./image/leclerc2.jpg";
+import SoundPlayer from './SoundPlayer';
+import SoundPlayer2 from "./SoundPlayer2";
 
 
 
 function Home() {
     return(
+       
         <div className="home">
              <VideoBackground/>
+             
+             <header>
 
              <img src="https://media2.giphy.com/media/4YxbWc42GOIN7YHjG7/giphy.gif" id="pirelli" alt="" />
              <img src="https://media2.giphy.com/media/4YxbWc42GOIN7YHjG7/giphy.gif" id="pirelli" alt="" />
@@ -25,6 +30,7 @@ function Home() {
              <span className="origins">
                 <h3>HISTORY OF FORMULA 1</h3>
              </span>
+             </header>
 
             <h3>F1 Origins</h3>
             <p>Formula 1 originated in the <span>1950s</span> and was first known as <span>grand prix racing</span>.</p>
@@ -55,6 +61,10 @@ function Home() {
                 <p>would take on six other turns - Copse, Maggots, Becketts, Chapel, Stowe and Club -</p>
                 <p> before arriving at the final corner, Abbey. The <span>pit lane</span> and <span>starting grid</span> were</p>
                 <p>situated <span>between Abbey</span> and <span>Woodcote</span>, with the <span>cars lining</span> up for the start in <span>4-3-4</span> formation.</p>
+            </div>
+
+            <div className="sound1">   
+                <SoundPlayer/>
             </div>
 
             <span className="ferrari1">
@@ -95,7 +105,10 @@ function Home() {
                 <p><span>recovers energy</span> from <span>braking</span> (MGU-K) and from the <span>turbocharger</span> (MGU-H).The</p>
                 <p>car's design is constantly evolving to comply with and take advantage of the latest </p>
                 <p> FIA regulations, which include aerodynamics, weight, power unit efficiency, and safety standards.</p>
-                <ImageGallery/>
+            </div>
+
+            <div className="sound2">
+                <SoundPlayer2/>
             </div>
 
             <span className="drivers">
@@ -149,14 +162,14 @@ function Home() {
 
             <div className="monza">
                 <h4>The Italian Grand Prix - Monza</h4>
-                <p>Constructed in just 110 days in 1922, the Autodromo Nazionale Monza was the world’s </p>
-                <p>third purpose-built race track,coming after Brooklands in the UK and Indianapolis in the US.</p>
-                <p>Monza opened its doors on September 3 1922, just a week before it hosted that year’s  </p>
-                <p>Italian Grand Prix.  It was then part of the original Formula 1 calendar in 1950, and</p>
+                <p><span>Constructed</span> in just <span>110 days</span> in <span>1922</span>, the <span>Autodromo Nazionale Monza</span> was the world’s </p>
+                <p><span>third purpose-built</span> race track,coming after Brooklands in the UK and Indianapolis in the US.</p>
+                <p><span>Monza opened</span> its doors on <span>September 3 1922</span>, just a week before it hosted that year’s  </p>
+                <p>Italian Grand Prix.  It was then part of the <span>original Formula 1 calendar</span> in <span>1950</span>, and</p>
                 <p>has held the Italian Grand Prix every year but one since then. Formula 1’s  </p>
-                <p>fastest ever lap was set at Monza – Williams driver Juan Pablo Montoya’s 260.6km/h effort</p>
+                <p><span>fastest ever lap</span> was set at <span>Monza</span> – Williams driver Juan Pablo Montoya’s 260.6km/h effort</p>
                 <p>during practice for the 2004 Grand Prix - which should give you some idea of the nature of </p>
-                <p>the track. It is situated near Ferrari headquarters.</p>
+                <p>the track. It is <span>situated</span> near <span>Ferrari headquarters</span>.</p>
                 <img src="https://assets-global.website-files.com/62b19deb792118ef558a329d/65c94fea3533e4d1e829ef03_monza-trackmap.png" alt="" />
             </div>
 
@@ -171,6 +184,12 @@ function Home() {
             <div className="monza2">
               <img src="https://i.gifer.com/2dU9.gif" alt="" />
             </div>
+
+            <footer className="footer">
+                created in 2024 by Kiara Mohun
+            </footer>
+
+          
         </div>
 
        
@@ -180,3 +199,5 @@ function Home() {
 }
 
 export default Home;
+
+/*used https://react.dev/learn */

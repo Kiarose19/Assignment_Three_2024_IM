@@ -1,0 +1,37 @@
+
+  
+  .carousel .slide {
+    background: none;
+  }
+  
+  .carousel .slide h3 {
+    margin: 0;
+  }
+  
+  .carousel .slide p {
+    margin: 10px 0;
+  }
+  
+  .carousel .slide button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-bottom: 30px;
+  }
+  
+  .carousel .slide button:hover {
+    background-color: #e09d02;
+  }
+  
+  .ReactModal__Overlay {
+    background-color: rgba(0, 0, 0, 0.75) !important;
+  }
+  
+  .ReactModal__Content {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  

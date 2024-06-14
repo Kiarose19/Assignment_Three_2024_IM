@@ -12,14 +12,15 @@ import Fonts from "./image/Fonts.png";
 
 function Design() {
     return(
+        
         <div className="design">
-            <h1>Monaco Circuit</h1>
+            <h1>.</h1>
 
 
             <div className="monaco"> 
                 <h2>Monaco Circuit</h2>
-
-
+                
+             <header>
              <span id="structure">
                 <h3>THE WIREFRAMES</h3>
              </span>
@@ -27,19 +28,20 @@ function Design() {
              <span id="struct">
                 <h3>THE WIREFRAMES</h3>
              </span>
-
+             </header>
+             
                 <h3>Website Wireframes</h3>
                 <h4>The Homepage Wireframes</h4>
-                <p>The image on the right is a wireframe for the home page of my website. It</p>
-                <p>shows all the elements of the page laid out in the way I envisioned the </p>
-                <p>home page would look. It starts with the navbar component right at the top,</p>
-                <p>which would be a different colour to the rest of the page. It was a deep red.</p>
-                <p>The checkered flag would appear underneath the navbar to draw in a feature</p>
-                <p>F1, however both the red navbar and checkered flag did not make the final</p>
-                <p>iteration as they were too distracting. The layout for this wireframe was to</p>
-                <p>have the title with no background and then the rest of the components follow</p>
-                <p>in a uniform manner. However, the layout completely changed because it did not</p>
-                <p>resonate with the theme strongly.</p>
+                <p>The <span>image</span> on the right is a <span>wireframe</span> for the <span>home page</span> of my website. It</p>
+                <p>shows <span>all</span> the <span>elements</span> of the page laid out in the way I <span>envisioned</span> the </p>
+                <p>home page would look. It starts with the <span>navbar component</span> right at the <span>top</span>,</p>
+                <p>which would be a <span>different colour</span> to the <span>rest</span> of the <span>page</span>. It was a deep red.</p>
+                <p>The <span>checkered flag</span> would appear <span>underneath</span> the navbar to draw in a <span>feature</span></p>
+                <p>of <span>F1</span>, however both the red navbar and checkered flag did not make the final</p>
+                <p>iteration as they were too distracting. The <span>layout</span> for this <span>wireframe</span> was to</p>
+                <p>have the <span>title</span> with <span>no background</span> and then the <span>rest</span> of the components follow</p>
+                <p>in a <span>uniform manner</span>. <span>However</span>, the <span>layout completely changed</span> because it did <span>not</span></p>
+                <p><span>resonate</span> with the theme strongly.</p>
                 <img src= {Home} alt="Wireframe for the home page" />
             </div>
 
@@ -48,28 +50,28 @@ function Design() {
             </span>
 
             <div className="circuit">
-            <p>The image alongside is the second wireframe for the home page. It has a few</p>
-            <p>differences to the first. In this layout the navbar becomes the checkered flag</p>
-            <p>which resulted in beign too distracting so it was removed. The second element</p>
+            <p>The <span>image alongside</span> is the <span>second wireframe</span> for the <span>home page</span>. It has a few</p>
+            <p><span>differences</span> to the first. In this <span>layout</span> the <span>navbar</span> becomes the <span>checkered flag</span></p>
+            <p>which resulted in <span>being</span> too <span>distracting</span> so it was <span>removed</span>. The second element</p>
             <p>that I wanted to include but did not, was an image gallery slideshow. This would</p>  
             <p>allow the users to view a ferrari from different eras. In the end it did not suit the</p>
             <p>rest of the layout I was going for. The rest of the layout like the text and images</p>
-            <p>would have followed the first wireframe's layout. The home page now features</p>
-            <p>a video background with the navbar blending seamlessly with it. Giving the </p>
-            <p>appearance that the navbar is part of the background. The rest of the layout</p>
-            <p>consists of image, text, text, image as well as big headings.</p>
+            <p>would have followed the first wireframe's layout. The <span>home page</span> now <span>features</span></p>
+            <p>a <span>video background</span> with the <span>navbar blending</span> seamlessly with it. Giving the </p>
+            <p>appearance that the navbar is part of the background. The <span>rest</span> of the <span>layout</span></p>
+            <p>consists of <span>image, text, text, image</span> as well as <span>big headings</span>.</p>
             </div>
 
             <div className="circ">
                 <h4>The Design Page Wireframes</h4>
-                <p>The initial idea for the design page as can be seen in the wireframe featured a</p>
-                <p>similar style to the first home page wireframe. Including the checkered flag and</p>
-                <p>the image gallery slideshow. The rest of the layout was going to consist of 4x4 </p>
-                <p>grid to display the wireframes. However, that particular layout seemed boring,</p>
-                <p>offering no room for explanations of each wireframe. It would have also created</p>
-                <p>disharmony between all the pages, as it would have looked like it did not form </p>
-                <p>part of the same website. The current layout of the design page features a track</p>
-                <p>as a background well the rest of the layout follows that of the home page.</p>
+                <p>The <span>initial idea</span> for the <span>design page</span> as can be seen in the <span>wireframe</span> featured a</p>
+                <p><span>similar style</span> to the <span>first home page wireframe</span>. Including the checkered flag and</p>
+                <p>the image gallery slideshow. The rest of the <span>layout was</span> going to consist of <span>4x4</span> </p>
+                <p><span>grid</span> to display the <span>wireframes</span>. <span>However</span>, that particular <span>layout seemed boring</span>,</p>
+                <p>offering no room for explanations of each wireframe. It <span>would</span> have also <span>created</span></p>
+                <p><span>disharmony</span> between all the pages, as it would have looked like it did not form </p>
+                <p>part of the same website. The <span>current layout</span> of the <span>design page features</span> a <span>track</span></p>
+                <p>as a <span>background</span> well the rest of the <span>layout follows</span> that of the <span>home page</span>.</p>
                 <img src= {Designn} alt="The design page wireframe"/>
             </div>
 
@@ -79,28 +81,28 @@ function Design() {
             </span>
 
             <div className="para">
-            <p>This second wireframe for the design page is the layout that I decided to choose.</p>
-                <p>As mentioned above it follows the layout of the home page to keep the unity</p>
+            <p>This <span>second wireframe</span> for the <span>design page</span> is the <span>layout</span> that I decided to <span>choose</span>.</p>
+                <p>As mentioned above it <span>follows</span> the <span>layout</span> of the <span>home page</span> to keep the <span>unity</span></p>
                 <p>between each page. I used a famous racing circuit in Formula 1 as the background</p>
-                <p>but I made it smaller in height than the home page background. This was an </p>
+                <p>but I made it <span>smaller</span> in <span>height</span> than the <span>home page background</span>. This was an </p>
                 <p>interesting way to incorporate and element formula one into the design page.</p>
-                <p>I added little racing animations to the page to further emphasize the theme that</p>
-                <p>I chose. This particular layout with the text and images provides the user with a </p>
-                <p>break so that they are not overwhelmed with information. The design page </p>
+                <p>I added <span>little racing animations</span> to the page to further <span>emphasize</span> the <span>theme</span> that</p>
+                <p>I chose. This <span>particular layout</span> with the text and images <span>provides</span> the user with a </p>
+                <p><span>break</span> so that they are <span>not overwhelmed</span> with information. The design page </p>
                 <p>specifically has a lot of text because each wireframe and design decision requires</p>
                 <p>an explanation and reason for its use.</p>
             </div>
 
             <div className="frame">
                 <h4>The Theory Page Wireframe</h4>
-                <p>The theory page wireframe is the section of my website that contains the essay</p>
-                <p>and the proposal for my internet artwork that will be placed on the art page.</p>
-                <p>This wireframe is similar to the second wireframe for the design page with a few</p>
-                <p>select differences. For example on this wireframe I included a scroll indicator on</p>
-                <p>the background image to indicate to user that they must scroll down as there is</p>
-                <p>more content that they can view and interact with. Another difference that I </p>
-                <p>wanted to experiment was adding the checkered flag component to separate the</p>
-                <p>sections. It would look sleek as well as bring in that theme of Ferrari and F1.</p>
+                <p>The <span>theory page wireframe</span> is the <span>section</span> of my website that <span>contains</span> the <span>essay</span></p>
+                <p>and the <span>proposal</span> for my <span>internet artwork</span> that will be placed on the art page.</p>
+                <p>This <span>wireframe</span> is <span>similar</span> to the <span>second wireframe</span> for the <span>design page</span> with a few</p>
+                <p>select <span>differences</span>. For example on this <span>wireframe</span> I included a <span>scroll indicator</span> on</p>
+                <p>the <span>background image</span> to indicate to user that they must <span>scroll down</span> as there is</p>
+                <p>more content that they can view and interact with. Another <span>difference</span> that I </p>
+                <p>wanted to experiment was <span>adding</span> the <span>checkered flag</span> component to <span>separate</span> the</p>
+                <p><span>sections</span>. It would look sleek as well as bring in that theme of Ferrari and F1.</p>
                 <img src= {Theoryy} alt="The theory page wireframe"/>
             </div>
 
@@ -110,13 +112,13 @@ function Design() {
 
             <div className="description">
                 <h4>The Art Page Wireframe</h4>
-                <p>The art page wireframe follows a similar structure to all the other pages in that</p>
-                <p>it has a smaller background of one of the racing circuits that F1 takes place at.</p>
-                <p>Since this page is mainly focused on the internet artwork, there will not be a lot</p>
-                <p>of text, other than the description of the artwork and how to use it if it is a game</p>
-                <p>Therefore, the layout as can be seen in the wireframe alongside does not follow</p>
-                <p>the image, text, text, and image layout. Rather it contains the checkered flag as</p>
-                <p>borders, which as mentioned before creates that connection between the theme</p>
+                <p>The <span>art page wireframe</span> follows a <span>similar structure</span> to all the other <span>pages</span>in that</p>
+                <p>it has a <span>smaller background</span> of one of the <span>racing circuits</span> that F1 takes place at.</p>
+                <p>Since this <span>page</span> is <span>mainly focused</span> on the <span>internet artwork</span>, there will <span>not</span> be a lot</p>
+                <p>of <span>text</span>, other than the description of the artwork and how to use it if it is a game</p>
+                <p>Therefore, the <span>layout</span> as can be seen in the <span>wireframe alongside</span> does <span>not</span> follow</p>
+                <p>the <span>image, text, text, and image layout</span>. Rather it <span>contains</span> the <span>checkered flag</span> as</p>
+                <p><span>borders</span>, which as mentioned before creates that connection between the theme</p>
                 <p>and the pages. The description will be at the top and the artwork will occupy the</p>
                 <p>rest of the page.</p>
             </div>
@@ -132,17 +134,17 @@ function Design() {
             <span className="section2">
               <h3>The Style Guide </h3>
               <h4>The Colour Guide For My Website</h4>
-              <p>The colours that I chose were picked specifically with the theme in mind, which  </p>
-                <p>is the Scuderia Ferrari team from Formula one. My website makes use of black, </p>
-                <p>a red that is strikingly like that of the Ferrari, grey, and an orange yellow which </p>
+              <p>The <span>colours </span>that I chose were picked <span>specifically</span> with the <span>theme in mind</span>, which  </p>
+                <p>is the <span>Scuderia Ferrari team</span> from <span>Formula one</span>. My website makes use of <span>black</span>, </p>
+                <p>a <span>red</span> that is strikingly <span>like</span> that of the <span>Ferrari</span>, <span>grey</span>, and an <span>orange yellow</span> which </p>
                 <p>emulates the yellow used for the finer details on the car. The reason I chose </p>
-                <p>these colours is because they would work well in tying the theme and the </p>
-                <p>website together. I used red for the main headings since it is the most important </p>
-                <p>colour on the Ferrari, it works well in highlighting the headings which are </p>
+                <p>these colours is because they would <span>work well</span> in <span>tying</span> the <span>theme</span> and the </p>
+                <p><span>website</span> together. I used <span>red for the main headings</span> since it is the most important </p>
+                <p>colour on the Ferrari, it works well in <span>highlighting</span> the headings which are </p>
                 <p>significant in informing the users of what is to follow in the sections below it.</p>
-                <p>I used black for the sub-headings, because just like how the tyres of the Ferrari  </p>
+                <p>I used <span>black for the sub-headings</span>, because just like how the tyres of the Ferrari  </p>
                 <p>are very important in it being able to function, the sub-headings provide the </p>
-                <p>users with a more in-depth understanding of what they are about to read/engage with.</p>
+                <p>users with a more <span>in-depth understanding</span> of what they are about to read/engage with.</p>
                 <img src= {Colour} alt="The Colour Guide" />
             </span>
 
@@ -152,32 +154,37 @@ function Design() {
 
             <span className="sect3">
                 <h4>The Layout Guide For My Website</h4>
-            <p>The layout that I am using throughout my website was taken as inspiration  </p>
-                <p>from other formula one websites as well as car websites like Ferrari. This </p>
-                <p>specific layout that I chose is sleek, and elegant thereby encapsulating what </p>
-                <p>the very team of Ferrari represents. The layout features images and text that</p>
-                <p>change position in each section. So, it goes text, image, image, text which  </p>
+            <p>The <span>layout</span> that I am using <span>throughout my website</span> was taken as <span>inspiration</span>  </p>
+                <p>from other <span>formula one websites</span> as well as <span>car websites</span> like <span>Ferrari</span>. This </p>
+                <p>specific <span>layout</span> that I chose is <span>sleek, and elegant</span> thereby encapsulating what </p>
+                <p>the very <span>team of Ferrari represents</span>. The layout features <span>images and text</span> that</p>
+                <p><span>change position</span> in each <span>section</span>. So, it goes text, image, image, text which  </p>
                 <p>creates an interesting dynamic. This layout provides the users a break between </p>
-                <p>each body of text therefore not overwhelming the users. It allows them to absorb </p>
-                <p>what they are reading before moving onto the next part of information. As can be </p>
-                <p> seen there is a generous amount of white space between each component. It</p>
-                <p> helps to solidify the breathing room that the layout presents to the user as it gives</p>
+                <p>each body of text therefore not overwhelming the users. It <span>allows</span> them to <span>absorb</span> </p>
+                <p>what they are <span>reading</span> before moving onto the next part of information. As can be </p>
+                <p> seen there is a <span>generous amount of white space</span> between each component. It</p>
+                <p> helps to <span>solidify</span> the <span>breathing room</span> that the layout presents to the user as it gives</p>
                 <p>a visual and textual break.</p>
             </span>
 
             <div className="section4">
                 <h4>The Fonts Guide For My Website</h4>
-                <p>The fonts for the website were a difficult process to find because I needed a font</p>
-                <p>that was bold, and exuded the theme of F1 through it. My original idea was to use a</p>
-                <p>blocky and strong font. It was used in the monaco website, another website that was </p>
-                <p>dedicated to Formula 1, and it suited the theme very well. However, on my search for </p>
-                <p>such a font, I was unable to find the exact one or one that closely resembled that font.</p>
-                <p>Therefore, I decided to just keep the font as it is. It may not be the most interesting</p>
-                <p>choice of font, but it still gives me room to style it whether that be through increasing</p>
-                <p>the size or making it bold as well as changing the colour. Alongside are some examples</p>
+                <p>The <span>fonts</span> for the <span>website</span> were a <span>difficult process</span> to find because I needed a font</p>
+                <p>that was <span>bold</span>, and exuded the <span>theme of F1</span> through it. My <span>original idea</span> was to use a</p>
+                <p><span>blocky and strong font</span>. It was used in the monaco website, another website that was </p>
+                <p>dedicated to Formula 1, and it suited the theme very well. <span>However</span>, on my search for </p>
+                <p>such a font, I was <span>unable</span> to find the <span>exact one</span> or one that closely resembled that font.</p>
+                <p><span>Therefore</span>, I decided to just <span>keep the font</span> as it is. It may not be the most interesting</p>
+                <p>choice of font, but it still gives me room to style it whether that be through <span>increasing</span></p>
+                <p>the <span>size</span> or making it <span>bold</span> as well as <span>changing the colour</span>. Alongside are some examples</p>
                 <p>of fonts that I found interesting but did not believe would suit my website or theme.</p>
                 <img src= {Fonts} alt="The fonts guide"/>
             </div>
+
+            <footer className="footer">
+                created in 2024 by Kiara Mohun
+                <p>Made with love and drive</p>
+            </footer>
 
         </div>
         

@@ -4,6 +4,7 @@
     height: 80vh;
     background-size: cover;
     margin-top: -75px;
+   
 }
 
 .singapore h2{
@@ -18,22 +19,182 @@
     margin-left: 90px;
 }
 
+.sing{
+    margin-top: -400px;
+}
+
 .sing h3{
-    margin-left: 110px;
-    margin-top: -200px;
+    margin-left: 150px;
+    
 }
 
 .sing p{
-    margin-left: 110px;
+    margin-left: 150px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.sing img{
+    width: 37%;
+    margin-left: 775px;
+    margin-top: -370px;
+    height: 50vh;
 }
 
 .flag img{
     margin-top: 85px;
     width: 5%;
+    height: 100%;
 }
 
 .flag1 img{
-    margin-top: -268px;
+    margin-top: 85px;
     width: 5%;
     margin-left: 1325px;
+    height: 100%;
 }
+
+.flag2 img{
+    margin-top: -600px;
+    width: 5%;
+    height: 100%;
+}
+
+.flag3 img{
+    margin-top: -900px;
+    width: 5%;
+    margin-left: 1325px;
+    height: 100%;
+}
+
+#sing1 h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 300px;
+    color: red;
+}
+
+#sing2 h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
+}
+
+
+
+.rules {
+    margin-left: 780px;
+    margin-right: 110px;
+    margin-top: -850px;
+}
+
+.Art{
+   margin-left: 150px;
+    margin-top: 300px;
+}
+  
+  .car-container {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .car-image {
+    width: 100%;
+    max-width: 610px;
+    height: 600px;
+  }
+  
+  .tyre-click-zone {
+    position: absolute;
+    width: 45px;
+    height: 75px;
+    border-radius: 8px;
+    background-color: rgba(255, 0, 0, 0.5);
+    cursor: pointer;
+   
+  }
+  
+  .tyre-click-zone.clicked {
+    background-color: rgba(0, 255, 0, 0.5);
+  }
+  
+  .tyre-click-zone.current {
+    border: 2px solid yellow;
+  }
+  
+  .tyre-click-zone.animate {
+    animation: tyre-fade-animation 5s ;
+    background-color: yellow;
+  }
+  
+  @keyframes tyre-fade-animation {
+    0% {
+      opacity: 2;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  .front-left {
+    top: 16%;
+    left: 12%;
+  }
+  
+  .front-right {
+    top: 16%;
+    right: 12%;
+  }
+  
+  .rear-left {
+    bottom: 10%;
+    left: 13%;
+  }
+  
+  .rear-right {
+    bottom: 10%;
+    right: 13%;
+  }
+  
+  button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  h4 {
+    margin: 20px 0;
+  }
+  
+  .sequence-display {
+    margin: 20px 0;
+  }
+  
+  .sequence-item {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 5px 10px;
+    background-color: #ddd;
+    border-radius: 5px;
+  }
+  
+  .sequence-item.current {
+    background-color: yellow;
+  }
+
+  .rules p{
+    font-size: 17px;
+    color: rgb(150, 149, 149);
+  }
+
+  .footer1{
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(150, 149, 149);
+  }

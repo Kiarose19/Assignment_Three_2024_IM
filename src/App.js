@@ -4,9 +4,10 @@ import Theory from "./pages/theory";
 import Art from "./pages/art";
 import { Route, Link, Router, Routes } from "react-router-dom";
 import Navbar from "./Navbar";
+import Modal from 'react-modal';
 
 
-
+Modal.setAppElement('#root');
 
 
 

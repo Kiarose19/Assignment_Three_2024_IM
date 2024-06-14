@@ -117,7 +117,7 @@
 
 .team h4{
     margin-left: 90px;
-    margin-top: 200px;
+    margin-top: 250px;
 }
 
 .team img{
@@ -129,7 +129,7 @@
 .drivers h3{
     margin-left: 90px;
     font-size: 60px;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 .drive h3{
@@ -142,7 +142,7 @@
 .driver img{
     width: 40%;
     margin-left: 90px;
-    margin-top: 200px;
+    margin-top: 250px;
 }
 
 .driver2 h4{
@@ -159,7 +159,7 @@
 .italy h3{
     margin-left: 90px;
     font-size: 60px;
-    margin-top: 350px;
+    margin-top: 330px;
 }
 
 .italy2 h3{
@@ -197,4 +197,10 @@
     width: 50%;
 }
 
+
+.footer{
+    color: rgb(150, 149, 149);
+    text-align: center;
+    margin-top: 100px;
+}
 

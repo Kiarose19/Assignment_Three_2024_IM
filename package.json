@@ -2,13 +2,19 @@
   "name": "three",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kiarose19.github.io/Assignment3_2024_Interactive-Media",
+  "homepage": "https://Kiarose19.github.io/Assignment_Three_2024_IM",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-image-gallery": "^1.3.0",
+    "react-modal": "^3.16.1",
+    "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -42,5 +48,4 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
-  
 }

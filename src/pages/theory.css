@@ -34,47 +34,48 @@
 
 .imola h3{
     font-size: 25px;
-    margin-left: 90px;
+    margin-left: 85px;
     margin-top: 200px;
     color: rgb(208, 5, 5);
 }
 
 .imola h4{
-    margin-left: 90px;
+    margin-left: 85px;
 }
 
 .imola p{
-    margin-left: 90px;
+    margin-left: 85px;
     color: rgb(150, 149, 149);
     font-size: 17px;
 }
 
 .imola img{
     width: 40%;
-    margin-left: 800px;
-    margin-top: -500px;
-    height: 55vh;
+    margin-left: 810px;
+    margin-top: -600px;
+    height: 60vh;
     
 }
 
 .image1 img{
     width: 40%;
+    height: 80vh;
     margin-left: 90px;
-    margin-top: 200px;
+    margin-top: 240px;
 }
 
 .essay2{
-    margin-top: -470px;
-    margin-left: 765px;
+    margin-top: -600px;
+    margin-left: 775px;
 }
 
 .essay2 p{
     color: rgb(150, 149, 149);
-    font-size: 17px;
+    font-size: 16.4px;
 }
 
 .essay3{
-    margin-top: 250px;
+    margin-top: 300px;
     margin-left: 90px;
 }
 
@@ -85,12 +86,13 @@
 
 .essay3 img{
     width: 43%;
-    margin-left: 700px;
+    margin-left: 720px;
     margin-top: -700px;
+    height: 55vh;
 }
 
 .essay4 {
-    margin-top: -470px;
+    margin-top: -585px;
     margin-left: 765px;
 }
 
@@ -102,7 +104,8 @@
 .image2 img{
     width: 40%;
     margin-left: 90px;
-    margin-top: 200px;
+    margin-top: 300px;
+    height: 75vh;
 }
 
 
@@ -121,12 +124,30 @@
 
 .essay5 img{
     width: 40%;
-    margin-left: 760px;
+    margin-left: 795px;
     margin-top: -900px;
+    height: 55vh;
+}
+
+.essay6 {
+    margin-top: -550px;
+    margin-left: 765px;
+}
+
+.essay6 p{
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.image3 img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 300px;
+    height: 70vh;
 }
 
 .essay7{
-    margin-top: 250px;
+    margin-top: 300px;
     margin-left: 90px;
 }
 
@@ -139,6 +160,24 @@
     width: 43%;
     margin-left: 730px;
     margin-top: -700px;
+    height: 58vh;
+}
+
+.essay8 {
+    margin-top: -720px;
+    margin-left: 765px;
+}
+
+.essay8 p{
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.image4 img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 300px;
+    height: 90vh;
 }
 
 #art1 h3{
@@ -170,22 +209,41 @@
 }
 
 .internet img{
-    width: 43%;
-    margin-left: 765px;
+    width: 40%;
+    margin-left: 780px;
     margin-top: -500px;
-    height: 50vh;
+    height: 55vh;
 }
 
 .artwork img{
     width: 40%;
-    height: 45vh;
+    height: 52vh;
     margin-left: 90px;
-    margin-top: 230px;
+    margin-top: 300px;
 }
 
 .artwork1{
-    margin-left: 790px;
-    margin-top: -360px;
+    margin-left: 780px;
+    margin-top: -410px;
+}
+
+.artwork1 p {
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+#art3 h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 300px;
+    color: red;
+}
+
+#art4 h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
 }
 
 #wheel img{
@@ -193,6 +251,10 @@
     width: 25%;
     margin-left: 80px;
     height: 30vh;
+}
+
+.theory p span{
+    color: rgb(255, 157, 0);
 }
 
 
