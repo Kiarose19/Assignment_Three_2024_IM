@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Exam_2024_IM/static/css/main.d6b2e605.css",
-    "main.js": "/Exam_2024_IM/static/js/main.546981fe.js",
+    "main.css": "/Exam_2024_IM/static/css/main.f2b1ee50.css",
+    "main.js": "/Exam_2024_IM/static/js/main.a309a21d.js",
     "static/js/453.39b6586f.chunk.js": "/Exam_2024_IM/static/js/453.39b6586f.chunk.js",
     "static/media/soundss.wav": "/Exam_2024_IM/static/media/soundss.5dc3ee7163079969291f.wav",
     "static/media/sounds.wav": "/Exam_2024_IM/static/media/sounds.76b422169247a45166c3.wav",
@@ -22,12 +22,12 @@
     "static/media/Layout.png": "/Exam_2024_IM/static/media/Layout.499b30714f498ca925f5.png",
     "static/media/Colour.png": "/Exam_2024_IM/static/media/Colour.7f24ecacef5174bebd7b.png",
     "index.html": "/Exam_2024_IM/index.html",
-    "main.d6b2e605.css.map": "/Exam_2024_IM/static/css/main.d6b2e605.css.map",
-    "main.546981fe.js.map": "/Exam_2024_IM/static/js/main.546981fe.js.map",
+    "main.f2b1ee50.css.map": "/Exam_2024_IM/static/css/main.f2b1ee50.css.map",
+    "main.a309a21d.js.map": "/Exam_2024_IM/static/js/main.a309a21d.js.map",
     "453.39b6586f.chunk.js.map": "/Exam_2024_IM/static/js/453.39b6586f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6b2e605.css",
-    "static/js/main.546981fe.js"
+    "static/css/main.f2b1ee50.css",
+    "static/js/main.a309a21d.js"
   ]
 }
