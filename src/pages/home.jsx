@@ -15,7 +15,7 @@ function Home() {
         <div className="home">
              <VideoBackground/>
              
-             <header>
+             <header> 
 
              <img src="https://media2.giphy.com/media/4YxbWc42GOIN7YHjG7/giphy.gif" id="pirelli" alt="" />
              <img src="https://media2.giphy.com/media/4YxbWc42GOIN7YHjG7/giphy.gif" id="pirelli" alt="" />

@@ -238,3 +238,84 @@
     color: rgb(255, 157, 0);
 }
 
+.rationale img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 265px;
+    border: 2px solid rgb(61, 61, 61);
+    display: flex;
+    height: 50vh;
+}
+
+.reflection{
+    margin-top: -400px;
+}
+
+.reflection h4{
+    margin-left: 765px;
+}
+
+.reflection p{
+    margin-left: 765px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.reflection1{
+    margin-top: 260px;
+}
+
+.reflection1 h4{
+    margin-left: 90px;
+}
+
+.reflection1 p{
+    margin-left: 90px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+.reflection1 img{
+    width: 40%;
+    margin-left: 790px;
+    margin-top: -700px;
+    height: 90vh;
+    border: 2px solid black;
+}
+
+.rationale2 img{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 300px;
+    border: 2px solid rgb(61, 61, 61);
+    display: flex;
+    height: 60vh;
+}
+
+.reflection2{
+    margin-top: -500px;
+}
+
+.reflection2 h4{
+    margin-left: 765px;
+}
+
+.reflection2 p{
+    margin-left: 765px;
+    color: rgb(150, 149, 149);
+    font-size: 17px;
+}
+
+#reflect h3{
+    margin-left: 90px;
+    font-size: 60px;
+    margin-top: 300px;
+    color: red;
+}
+
+#reflect1 h3{
+    margin-top: -100px;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.379);
+}
