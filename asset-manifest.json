@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Exam_2024_IM/static/css/main.c9b9493c.css",
+    "main.css": "/Exam_2024_IM/static/css/main.dc4da980.css",
     "main.js": "/Exam_2024_IM/static/js/main.546981fe.js",
     "static/js/453.39b6586f.chunk.js": "/Exam_2024_IM/static/js/453.39b6586f.chunk.js",
     "static/media/soundss.wav": "/Exam_2024_IM/static/media/soundss.5dc3ee7163079969291f.wav",
@@ -22,12 +22,12 @@
     "static/media/Layout.png": "/Exam_2024_IM/static/media/Layout.499b30714f498ca925f5.png",
     "static/media/Colour.png": "/Exam_2024_IM/static/media/Colour.7f24ecacef5174bebd7b.png",
     "index.html": "/Exam_2024_IM/index.html",
-    "main.c9b9493c.css.map": "/Exam_2024_IM/static/css/main.c9b9493c.css.map",
+    "main.dc4da980.css.map": "/Exam_2024_IM/static/css/main.dc4da980.css.map",
     "main.546981fe.js.map": "/Exam_2024_IM/static/js/main.546981fe.js.map",
     "453.39b6586f.chunk.js.map": "/Exam_2024_IM/static/js/453.39b6586f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9b9493c.css",
+    "static/css/main.dc4da980.css",
     "static/js/main.546981fe.js"
   ]
 }
